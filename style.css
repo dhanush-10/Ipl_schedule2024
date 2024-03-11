@@ -1,0 +1,116 @@
+.rcb{
+    background-color:#1F2544;
+    text-align: center;
+    color:white;
+}
+p{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: capitalize;
+    text-align: center;
+    padding: 20px;
+}
+.a{
+    background-color: red;
+    height:300px;
+    width:40%;
+    text-align: center;
+    margin-right: 50px;
+    margin-top: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    padding: 30px;
+
+}
+.b{
+    background-color:yellow;
+    height: 300px;
+    width: 40%;
+    text-align: center;
+    margin-left:170px ;
+    margin-top: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding:30px;
+    
+}
+img
+{
+    height:200px;
+    width: 300px;
+    margin-right: 10px;
+}
+.bg-color
+{
+    background-color: #0C2D57;
+}
+.fp{
+    border:black solid 2px ;
+    height: 270px;
+    width: 250px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 30px;
+    margin-top: 245px;
+    backdrop-filter:blur(2px);
+    color:whitesmoke;
+}
+.np
+{
+    border:black solid 2px ;
+    height: 300px;
+    width: 300px;
+    padding: 50px;
+    text-align: center;
+    border-radius: 30px;
+    margin-top: 70px;
+}
+.head
+{
+    
+    position: sticky;
+    top: 0%;
+    z-index: 1;
+
+}
+
+.tb
+{
+    border: 1px;
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+.team-box {
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+    margin: 10px;
+    
+}
+
+.box1 {
+    display: flex;
+    justify-content: center;
+}
+.carousel 
+{
+    margin: 10px;
+    padding: 5px;
+}
+.ma 
+{
+    border: solid;
+    margin: 10px;
+    padding:50px;
+    border-radius: 25px;
+
+}
+.btn
+{
+    height: 40px;
+    width: 100px;
+    align-content: center;
+}
+
